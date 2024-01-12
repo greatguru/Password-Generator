@@ -6,7 +6,7 @@ This is a simple Password Generator project implemented in Python. The program a
 ## How it Works
 The program prompts the user to input the desired number of letters, symbols, and numbers for the password. It then generates a random password based on the user's preferences.
 
-##Run the script from the python code
+## Run the script 
 
 Input the desired number of letters, symbols, and numbers.
 
